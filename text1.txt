@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5C5C-47C8
+
+ Directory of C:\Users\RENUKA\Desktop\MyGitFolder
+
+12/25/2019  05:00 PM    <DIR>          .
+12/25/2019  05:00 PM    <DIR>          ..
+12/25/2019  05:00 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  371,217,416,192 bytes free
